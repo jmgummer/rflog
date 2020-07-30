@@ -1,0 +1,35 @@
+@import url(http://fonts.googleapis.com/css?family=Domine:400,700);
+#outlook a{padding:0}
+ body{
+ 	width:100%!important;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;padding:0
+ }
+ p{font-family: 'lucida sans unicode','lucida grande',sans-serif; font-size: 14px; margin: 0 6px 4px; line-height: 25px;}
+ .story_tables{
+ 	font-family: 'lucida sans unicode','lucida grande',sans-serif;
+ 	font-size: 13px;
+ 	width: 100%;
+ }
+ h3{
+ 	font-family: "Domine","Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+ 	display: block; font-family: Helvetica,Arial,sans-serif; font-size: 18px; font-style: normal; font-weight: 600; line-height: 100%; margin-top: 8px; margin-bottom: 8px;
+ 	color: #ed1c24;
+ }
+ a{ text-decoration: none !important!}
+ #headerImage{
+ 	margin-left:30px;height: auto; width: 160px;
+ }
+ .ExternalClass,.ReadMsgBody{
+ 	width:100%
+ }
+ .ExternalClass,.ExternalClass div,.ExternalClass font,.ExternalClass p,.ExternalClass span,.ExternalClass td{
+ 	line-height:100%
+ }
+ a img{border:0;border-style:none}
+ .image_fix{display:block}
+ p{margin:1em 0}
+ .aBtn:hover{opacity:.9}
+ .socialLinks a:hover{opacity:.75}
+.gLink{
+	color: #ed1c24;
+	text-decoration: none !important;
+}
